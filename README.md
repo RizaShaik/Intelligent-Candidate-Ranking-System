@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project presents an AI-powered candidate ranking system designed to intelligently match candidates to a given Job Description (JD). Rather than relying solely on keyword matching, the system evaluates candidates across multiple dimensions including semantic relevance, technical skills, experience, behavioral signals, education, and professional background.
+This project presents an explainable candidate ranking system designed to intelligently match candidates to a given Job Description (JD). Rather than relying solely on keyword matching, the system evaluates candidates across multiple dimensions including semantic relevance, technical skills, experience, behavioral signals, education, and professional background.
 
 The solution produces a ranked list of the Top 100 candidates along with concise, explainable reasoning for each recommendation, enabling recruiters to make faster and more informed hiring decisions.
 
