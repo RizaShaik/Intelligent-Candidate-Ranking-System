@@ -1,0 +1,17 @@
+numpy
+pandas
+orjson
+torch
+tqdm
+sentence-transformers
+faiss-cpu
+scikit-learn
+spacy
+pyyaml
+python-docx
+joblib
+streamlit
+matplotlib
+networkx
+rapidfuzz
+nltk
