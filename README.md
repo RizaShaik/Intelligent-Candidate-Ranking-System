@@ -190,7 +190,7 @@ Candidate-Ranking-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/RizaShaik/AI-Candidate-Ranking-System
+git clone [https://github.com/RizaShaik/AI-Candidate-Ranking-System](https://github.com/RizaShaik/Intelligent-Candidate-Ranking-System)
 ```
 
 Navigate to the project directory:
